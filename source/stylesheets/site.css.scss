@@ -1,0 +1,22 @@
+@charset "utf-8";
+// Karla Font. This can be altered in _variabless.scss
+@import url(https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic);
+
+// Third Party Imports
+@import "vendor/normalize";
+
+// Thoughtbot Imports
+@import "bourbon";
+@import "base/base";
+@import "neat";
+
+// Boilermaker Imports
+@import "boilermaker/layout";
+@import "boilermaker/typography";
+
+// Partials Imports
+@import "partials/nav";
+@import "partials/footer";
+@import "partials/_blog"
+
+// Your scss can go here below

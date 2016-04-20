@@ -1,0 +1,13 @@
+nav {
+  margin: 2em 0 1em 0;
+  border-bottom: 1px solid $base-border-color;
+  li {
+    display: inline-block;
+    margin-right: 1em;
+    .page-title {
+      font-size: modular_scale(1);
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+  }
+}
