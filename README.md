@@ -14,7 +14,7 @@ A quick boilerplate/tool for prototyping, blogging, or static pages. Boilermaker
 ## Getting Started
 
 ```term
-$ git clone git@bitbucket.org:dayray023/boilermaker.git your-project-name
+$ git clone https://github.com/david-ray-wc/boilermaker.git your-project-name
 $ cd your-project-name
 $ bundle install
 $ git remote rm origin
